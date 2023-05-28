@@ -1,6 +1,6 @@
 .login{
  font-family: "Roboto";
- background-image: linear-gradient(to right,#ebe09d,#8571cf);
+ background-image: radial-gradient(circle at 10% 20%, rgb(128, 248, 174) 0%, rgb(223, 244, 148) 90%);
  display: flex;
  justify-content: center;
  align-items: center;
